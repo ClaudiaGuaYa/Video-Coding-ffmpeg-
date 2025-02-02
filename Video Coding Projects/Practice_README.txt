@@ -1,7 +1,3 @@
-Claudia Guallarte: 251224
-Iris Corbalan: 240011
-
-GITHUB LINK: https://github.com/Iriscorb18/Practice1.git
 
 GUI Features:
 Navigation:
