@@ -1,4 +1,3 @@
-GITHUB LINK: https://github.com/Iriscorb18/Practice1.git
 
 GUI Features:
 Navigation:
